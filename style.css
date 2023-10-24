@@ -1,18 +1,18 @@
-body { 
-    background:yellow;
+body {
+    background: yellow;
 
-    }
+}
 
-    #titulo {
-         text-align: center;
-    font-size: 45px; 
-    }
+#titulo {
+    text-align: center;
+    font-size: 45px;
+}
 
-.texto { text-align: center;
+.texto {
+    text-align: center;
     font-size: 30px;
 }
-   
-em strong{
+
+em strong {
     color: green;
-} 
- 
+}

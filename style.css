@@ -6,7 +6,8 @@ body {
 #titulo {
     text-align: center;
     font-size: 45px;
-    color: #F875AA;
+    color: #FF6969;
+    background-color:#C70039;
 }
 
 .texto {

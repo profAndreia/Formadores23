@@ -3,12 +3,12 @@ body {
 
     }
 
-    h1 {
+    #titulo {
          text-align: center;
     font-size: 45px; 
     }
 
-p { text-align: center;
+.texto { text-align: center;
     font-size: 30px;
 }
    

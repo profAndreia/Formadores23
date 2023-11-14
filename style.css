@@ -17,4 +17,7 @@ em strong {
     color: green;
 }
 
-#img ed="banner"src="image.jpg" 
+#img {-align: center; 
+    font-size: 35px;
+    ed="banner"src="image.jpg"
+}

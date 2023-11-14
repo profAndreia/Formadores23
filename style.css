@@ -16,8 +16,8 @@ body {
 em strong {
     color: green;
 }
-
-#img{
-    width:30px
-    height:auto 
+#img {
+    width:30px;
+    margin:2px
+    height:40px; 
  }

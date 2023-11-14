@@ -20,5 +20,5 @@ em strong {
 #imagem.jpg {
     width:30px;
     margin:2px
-    height:40px; 
- }
+    height:auto; 
+}

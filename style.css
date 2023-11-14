@@ -16,7 +16,8 @@ body {
 em strong {
     color: green;
 }
-#img {
+
+#imagem.jpg {
     width:30px;
     margin:2px
     height:40px; 

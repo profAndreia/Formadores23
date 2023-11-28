@@ -2,7 +2,9 @@ body {
     background: yellow;
 
 }
-{"É tempo de Aprender"}
+#cabeçalho {
+    "É tempo de Aprender"
+}
 #titulo {
     text-align: center;
     font-size: 45px;

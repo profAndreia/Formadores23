@@ -2,6 +2,8 @@ body {
     background: yellow;
 }
 
+#logo { border-radius: 10px;
+}
 .cabeçalho {
     display: inline-block;
     padding: 35px;

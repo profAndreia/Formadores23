@@ -1,9 +1,15 @@
 body {
     background: yellow;
 }
-.cabecalho{
-    "É tempo de Aprender"
+.cabecalho {
+    padding: 20px;
+    background-color: blue;
+    border-bottom: #FFF8C9;
+    font-size: 32px;
+    color: bisque;
+    text-align: center;
 }
+
 #titulo {
     text-align: center;
     font-size: 45px;
@@ -20,6 +26,5 @@ em strong {
 
 #imagem.jpg {
     width:30px;
-    margin:2px
-    height:auto; 
+    margin:2px 
 }

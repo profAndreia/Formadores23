@@ -1,14 +1,17 @@
 body {
     background: yellow;
 }
-.cabecalho {
+.cabecalho-item {
+    display: inline-block;
     padding: 35px;
     background-color: blue;
     border-bottom: #FFF8C9;
     font-size: 32px;
     color: bisque;
     text-align: center;
-}
+
+} 
+ 
 
 #titulo {
     text-align: center;

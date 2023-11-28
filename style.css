@@ -1,4 +1,7 @@
-body 
+body {
+    background: yellow;
+}
+
 .cabeçalho {
     padding: 35px;
     background-color: rgb(100, 37, 202);
@@ -7,12 +10,8 @@ body
     color: rgb(209, 196, 255);
     text-align: center;
 } 
-{
-    background: yellow;
-}
 
 
- 
 #titulo {
     text-align: center;
     font-size: 45px;

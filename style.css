@@ -27,4 +27,5 @@ em strong {
 #imagem.jpg {
     width:30px;
     margin:2px 
+    imagem-align center;
 }

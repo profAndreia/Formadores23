@@ -2,10 +2,7 @@ body {
     background: yellow;
 }
 
-#logo { border-radius: 10px;
-}
 .cabeçalho {
-    display: inline-block;
     padding: 35px;
     background-color: rgb(100, 37, 202);
     border-bottom: #FFF8C9;
